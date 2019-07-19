@@ -21,3 +21,5 @@ The following values are configurable
 
 ### NOTE
 Use a plugin manager to reload your server whenever you update ArtMap - the Spigot reload command will freak out and throw a bunch of exceptions.
+
+ArtMap was created 2 years ago by Fupery, which he then abandoned the plugin. I got the source code and got it compiled into a plugin since you couldn't download the .jar anywhere. I do not take credit of any of the development of this plugin, all credit goes to Fupery.
