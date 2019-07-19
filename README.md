@@ -1,6 +1,6 @@
 ![ArtMap](http://puu.sh/kRWAF/2c81256338.jpg)
 Bukkit plugin - allows players to draw directly onto minecraft maps. 
-User guide at [ArtMap Wiki](https://github.com/Fupery/ArtMap/wiki).
+User guide at [ArtMap Wiki](https://github.com/PreciseKill/ArtMapRemake/wiki).
 
 ### Features
 * Custom easel entity
